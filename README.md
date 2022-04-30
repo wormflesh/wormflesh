@@ -1,8 +1,9 @@
 <div align="center">
-  <h1>欢迎浏览我的github主页 👋</h1>
+  <h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);欢迎浏览我的github主页 👋&center=true&size=27"> </a> </h1>
 </div>
+
 <div align="center">
-  <h1>Hi welcome to there 👋</h1>
+  <h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);Hi welcome to there 👋&center=true&size=27"> </a> </h1>
 </div>
 
 
@@ -20,8 +21,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=sun0225SUN" /> </div>
-<div align="center"><span > <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" /> </span></div>
-<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=sun0225SUN" /> </div>
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=sun0225SUN&theme=xcode" /> </div>
+<div align="center"> <img src="https://metrics.lecoq.io/wormflesh?template=classic&config.timezone=Asia%2FShanghai" /> </div>
+
+<div align="center"> <img src="" /> </div>
+<div align="center"> <img src="" /> </div>
 
