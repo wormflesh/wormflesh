@@ -1,9 +1,5 @@
 <div align="center">
-  <h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=First+line+of+text;Second+line+of+text"> </a> </h1>
-</div>
-
-<div align="center">
-  <h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);Hi welcome to there 👋&center=true&size=27"> </a> </h1>
+  <h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=欢迎来到我的github;Hi welcome to there 👋"> </a> </h1>
 </div>
 
 
@@ -23,6 +19,6 @@ Here are some ideas to get you started:
 -->
 <div align="center"> <img src="https://metrics.lecoq.io/wormflesh?template=classic&config.timezone=Asia%2FShanghai" /> </div>
 
-<div align="center"> <img src="" /> </div>
-<div align="center"> <img src="" /> </div>
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=wormflesh" /> </div>
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=wormflesh" /> </div>
 
