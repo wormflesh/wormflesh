@@ -1,5 +1,9 @@
-### 欢迎浏览我的github主页 👋
-### Hi welcome to there 👋
+<div align="center">
+  <h1>欢迎浏览我的github主页 👋</h1>
+</div>
+<div align="center">
+  <h1>Hi welcome to there 👋</h1>
+</div>
 
 
 <!--
