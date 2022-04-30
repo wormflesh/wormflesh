@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=欢迎来到我的github;Hi welcome to there 👋"> </a> </h1>
+  <h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=欢迎来到我的github;Hi welcome to there"> </a> </h1>
 </div>
 
 
